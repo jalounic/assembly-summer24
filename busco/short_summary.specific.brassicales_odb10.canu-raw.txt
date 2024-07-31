@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: brassicales_odb10 (Creation date: 2024-01-08, number of genomes: 10, number of BUSCOs: 4596)
+# Summarized benchmarking in BUSCO notation for file /data/users/jackermann/assembly-annotation/assemblies/compare/canu-raw.fasta
+# BUSCO was run in mode: euk_genome_met
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:97.1%[S:95.1%,D:2.0%],F:1.4%,M:1.5%,n:4596	   
+	4464	Complete BUSCOs (C)			   
+	4372	Complete and single-copy BUSCOs (S)	   
+	92	Complete and duplicated BUSCOs (D)	   
+	64	Fragmented BUSCOs (F)			   
+	68	Missing BUSCOs (M)			   
+	4596	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	401	Number of scaffolds
+	401	Number of contigs
+	120633998	Total length
+	0.000%	Percent gaps
+	941 KB	Scaffold N50
+	941 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.3
+	bbtools: 38.96
+	metaeuk: GITDIR-NOTFOUND
+	busco: 5.4.2
