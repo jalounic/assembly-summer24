@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	ERR3415825	/home/james/Desktop/assembly/multiQC/ERR3415825_fastqc.zip
+FastQC	all_sections	ERR3415826	/home/james/Desktop/assembly/multiQC/ERR3415826_fastqc.zip
+FastQC	all_sections	ERR3624574_1	/home/james/Desktop/assembly/multiQC/ERR3624574_1_fastqc.zip
+FastQC	all_sections	ERR3624574_2	/home/james/Desktop/assembly/multiQC/ERR3624574_2_fastqc.zip
+FastQC	all_sections	SRR1734309_1	/home/james/Desktop/assembly/multiQC/SRR1734309_1_fastqc.zip
+FastQC	all_sections	SRR1734309_2	/home/james/Desktop/assembly/multiQC/SRR1734309_2_fastqc.zip
